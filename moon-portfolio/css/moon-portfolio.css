@@ -41,6 +41,8 @@ a:hover {
 .sitewrapper {
     letter-spacing: 0em;
 }
+a {
+    color: inherit;}
 /*Style the topnav links*/
 .topnav a {
     float:left;
