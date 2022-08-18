@@ -120,7 +120,8 @@ div.desc {
     transition: 0.6s;
 }
 #columnimg:hover {
-    opacity: 0.7%;}
+    opacity: 0.7%;
+    text: click to view more;}
 
 @-webkit-keyframes zoom {
     from {-webkit-transform:scale(0)}
