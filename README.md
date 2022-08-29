@@ -1,1 +1,1 @@
-# bethanymoon.github.io
+# bethanymoon.com
